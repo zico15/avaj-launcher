@@ -1,5 +1,7 @@
 package avaj.launcher;
 
+import avaj.launcher.exceptions.TimesException;
+
 import java.io.File;
 import java.nio.file.Files;
 import java.util.ArrayList;
@@ -16,6 +18,9 @@ public record Scenario(int times, List<Flyable> fleet) {
             throw new IllegalArgumentException("Scenario file is empty.");
         }
         int times = Integer.parseInt(lines.getFirst().trim());
+        if (times <= 0) {
+            throw new TimesException(times);
+        }
         List<Flyable> list = new ArrayList<>();
         for (String line : lines.subList(1, lines.size())) {
             String trimmed = line.trim();

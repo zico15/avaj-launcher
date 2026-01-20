@@ -3,6 +3,7 @@ package avaj;
 import avaj.launcher.Flyable;
 import avaj.launcher.Scenario;
 import avaj.launcher.WeatherTower;
+import avaj.launcher.exceptions.SimulatorException;
 
 import java.io.File;
 import java.io.FileOutputStream;
@@ -17,6 +18,9 @@ public class Simulator {
     }
 
     public void run() {
+        if (scenario.fleet().isEmpty()) {
+            throw new SimulatorException(scenario);
+        }
         PrintStream stdout = System.out;
         File outFile = new File("simulation.txt");
         try {
