@@ -1,0 +1,176 @@
+avaj.launcher.Tower says: Balloon#B1(1) registered to weather tower.
+avaj.launcher.Tower says: Balloon#B2(2) registered to weather tower.
+avaj.launcher.Tower says: avaj.launcher.JetPlane#J1(3) registered to weather tower.
+avaj.launcher.Tower says: avaj.launcher.Helicopter#H1(4) registered to weather tower.
+avaj.launcher.Tower says: avaj.launcher.Helicopter#H2(5) registered to weather tower.
+avaj.launcher.Tower says: avaj.launcher.Helicopter#H3(6) registered to weather tower.
+avaj.launcher.Tower says: Balloon#B3(7) registered to weather tower.
+avaj.launcher.Tower says: avaj.launcher.JetPlane#J2(8) registered to weather tower.
+avaj.launcher.Tower says: avaj.launcher.Helicopter#H4(9) registered to weather tower.
+avaj.launcher.JetPlane#J1(3): Snow confirmed, entering Russian airspace.
+avaj.launcher.JetPlane#J2(8): Fog confirmed, approaching unsuspecting enemy.
+Balloon#B1(1): Raining! Should have checked the weather!
+Balloon#B2(2): Is it dangerous to balloon on Snow days? 🥶
+avaj.launcher.Helicopter#H4(9): This rain is jeopardazing the rescue mission!
+avaj.launcher.Helicopter#H1(4): This rain is jeopardazing the rescue mission!
+Balloon#B3(7): Sun's out, get the champagne!
+avaj.launcher.Helicopter#H2(5): Freeze failure! Abort!
+avaj.launcher.Helicopter#H3(6): This rain is jeopardazing the rescue mission!
+avaj.launcher.JetPlane#J1(3): It's sunny. Perfect day for a Jet away.
+avaj.launcher.JetPlane#J2(8): Snow confirmed, entering Russian airspace.
+Balloon#B1(1): Sun's out, get the champagne!
+Balloon#B2(2): Sun's out, get the champagne!
+avaj.launcher.Helicopter#H4(9): This rain is jeopardazing the rescue mission!
+avaj.launcher.Helicopter#H1(4): This rain is jeopardazing the rescue mission!
+Balloon#B3(7): Sun's out, get the champagne!
+avaj.launcher.Helicopter#H2(5): Freeze failure! Abort!
+avaj.launcher.Helicopter#H3(6): Freeze failure! Abort!
+avaj.launcher.JetPlane#J1(3): It's sunny. Perfect day for a Jet away.
+avaj.launcher.JetPlane#J2(8): It's sunny. Perfect day for a Jet away.
+Balloon#B1(1): I actually enjoy the view with a little Fog.
+Balloon#B2(2): I actually enjoy the view with a little Fog.
+avaj.launcher.Helicopter#H4(9): This rain is jeopardazing the rescue mission!
+avaj.launcher.Helicopter#H1(4): This rain is jeopardazing the rescue mission!
+Balloon#B3(7): Sun's out, get the champagne!
+avaj.launcher.Helicopter#H2(5): Freeze failure! Abort!
+avaj.launcher.Helicopter#H3(6): Freeze failure! Abort!
+avaj.launcher.JetPlane#J1(3): It's sunny. Perfect day for a Jet away.
+avaj.launcher.JetPlane#J2(8): Fog confirmed, approaching unsuspecting enemy.
+Balloon#B1(1): Is it dangerous to balloon on Snow days? 🥶
+Balloon#B2(2): Is it dangerous to balloon on Snow days? 🥶
+avaj.launcher.Helicopter#H4(9): This rain is jeopardazing the rescue mission!
+avaj.launcher.Helicopter#H1(4): This rain is jeopardazing the rescue mission!
+Balloon#B3(7): Sun's out, get the champagne!
+avaj.launcher.Helicopter#H2(5): Freeze failure! Abort!
+avaj.launcher.Helicopter#H2(5) landing.
+avaj.launcher.Helicopter#H3(6): Freeze failure! Abort!
+avaj.launcher.Tower says: avaj.launcher.Helicopter#H2(5) unregistered from weather tower.
+avaj.launcher.JetPlane#J1(3): It's sunny. Perfect day for a Jet away.
+avaj.launcher.JetPlane#J2(8): Fog confirmed, approaching unsuspecting enemy.
+Balloon#B1(1): Sun's out, get the champagne!
+Balloon#B2(2): Sun's out, get the champagne!
+avaj.launcher.Helicopter#H4(9): This rain is jeopardazing the rescue mission!
+avaj.launcher.Helicopter#H1(4): This rain is jeopardazing the rescue mission!
+Balloon#B3(7): Sun's out, get the champagne!
+avaj.launcher.Helicopter#H3(6): Freeze failure! Abort!
+avaj.launcher.JetPlane#J1(3): It's sunny. Perfect day for a Jet away.
+avaj.launcher.JetPlane#J2(8): Fog confirmed, approaching unsuspecting enemy.
+Balloon#B1(1): I actually enjoy the view with a little Fog.
+Balloon#B2(2): I actually enjoy the view with a little Fog.
+avaj.launcher.Helicopter#H4(9): This rain is jeopardazing the rescue mission!
+avaj.launcher.Helicopter#H1(4): This rain is jeopardazing the rescue mission!
+Balloon#B3(7): Sun's out, get the champagne!
+avaj.launcher.Helicopter#H3(6): Freeze failure! Abort!
+avaj.launcher.JetPlane#J1(3): It's sunny. Perfect day for a Jet away.
+avaj.launcher.JetPlane#J2(8): Fog confirmed, approaching unsuspecting enemy.
+Balloon#B1(1): Is it dangerous to balloon on Snow days? 🥶
+Balloon#B1(1) landing.
+Balloon#B2(2): Is it dangerous to balloon on Snow days? 🥶
+avaj.launcher.Helicopter#H4(9): This rain is jeopardazing the rescue mission!
+avaj.launcher.Helicopter#H1(4): This rain is jeopardazing the rescue mission!
+Balloon#B3(7): Sun's out, get the champagne!
+avaj.launcher.Helicopter#H3(6): Freeze failure! Abort!
+avaj.launcher.Tower says: Balloon#B1(1) unregistered from weather tower.
+avaj.launcher.JetPlane#J1(3): It's sunny. Perfect day for a Jet away.
+avaj.launcher.JetPlane#J2(8): Fog confirmed, approaching unsuspecting enemy.
+Balloon#B2(2): Sun's out, get the champagne!
+avaj.launcher.Helicopter#H4(9): This rain is jeopardazing the rescue mission!
+avaj.launcher.Helicopter#H1(4): This rain is jeopardazing the rescue mission!
+Balloon#B3(7): Sun's out, get the champagne!
+avaj.launcher.Helicopter#H3(6): Freeze failure! Abort!
+avaj.launcher.JetPlane#J1(3): Fog confirmed, approaching unsuspecting enemy.
+avaj.launcher.JetPlane#J2(8): Fog confirmed, approaching unsuspecting enemy.
+Balloon#B2(2): I actually enjoy the view with a little Fog.
+avaj.launcher.Helicopter#H4(9): This rain is jeopardazing the rescue mission!
+avaj.launcher.Helicopter#H1(4): This rain is jeopardazing the rescue mission!
+Balloon#B3(7): Sun's out, get the champagne!
+avaj.launcher.Helicopter#H3(6): Freeze failure! Abort!
+avaj.launcher.JetPlane#J1(3): Fog confirmed, approaching unsuspecting enemy.
+avaj.launcher.JetPlane#J2(8): Fog confirmed, approaching unsuspecting enemy.
+Balloon#B2(2): Is it dangerous to balloon on Snow days? 🥶
+avaj.launcher.Helicopter#H4(9): This rain is jeopardazing the rescue mission!
+avaj.launcher.Helicopter#H1(4): This rain is jeopardazing the rescue mission!
+Balloon#B3(7): Sun's out, get the champagne!
+avaj.launcher.Helicopter#H3(6): Freeze failure! Abort!
+avaj.launcher.Helicopter#H3(6) landing.
+avaj.launcher.Tower says: avaj.launcher.Helicopter#H3(6) unregistered from weather tower.
+avaj.launcher.JetPlane#J1(3): Fog confirmed, approaching unsuspecting enemy.
+avaj.launcher.JetPlane#J2(8): Fog confirmed, approaching unsuspecting enemy.
+Balloon#B2(2): Sun's out, get the champagne!
+avaj.launcher.Helicopter#H4(9): This rain is jeopardazing the rescue mission!
+avaj.launcher.Helicopter#H1(4): This rain is jeopardazing the rescue mission!
+Balloon#B3(7): Sun's out, get the champagne!
+avaj.launcher.JetPlane#J1(3): Fog confirmed, approaching unsuspecting enemy.
+avaj.launcher.JetPlane#J2(8): Fog confirmed, approaching unsuspecting enemy.
+Balloon#B2(2): I actually enjoy the view with a little Fog.
+avaj.launcher.Helicopter#H4(9): This rain is jeopardazing the rescue mission!
+avaj.launcher.Helicopter#H1(4): This rain is jeopardazing the rescue mission!
+Balloon#B3(7): Sun's out, get the champagne!
+avaj.launcher.JetPlane#J1(3): Fog confirmed, approaching unsuspecting enemy.
+avaj.launcher.JetPlane#J2(8): Fog confirmed, approaching unsuspecting enemy.
+Balloon#B2(2): Is it dangerous to balloon on Snow days? 🥶
+Balloon#B2(2) landing.
+avaj.launcher.Helicopter#H4(9): This rain is jeopardazing the rescue mission!
+avaj.launcher.Helicopter#H1(4): This rain is jeopardazing the rescue mission!
+Balloon#B3(7): Sun's out, get the champagne!
+avaj.launcher.Tower says: Balloon#B2(2) unregistered from weather tower.
+avaj.launcher.JetPlane#J1(3): Fog confirmed, approaching unsuspecting enemy.
+avaj.launcher.JetPlane#J2(8): Fog confirmed, approaching unsuspecting enemy.
+avaj.launcher.Helicopter#H4(9): This rain is jeopardazing the rescue mission!
+avaj.launcher.Helicopter#H1(4): This rain is jeopardazing the rescue mission!
+Balloon#B3(7): Sun's out, get the champagne!
+avaj.launcher.JetPlane#J1(3): Fog confirmed, approaching unsuspecting enemy.
+avaj.launcher.JetPlane#J2(8): Fog confirmed, approaching unsuspecting enemy.
+avaj.launcher.Helicopter#H4(9): This rain is jeopardazing the rescue mission!
+avaj.launcher.Helicopter#H1(4): This rain is jeopardazing the rescue mission!
+Balloon#B3(7): Sun's out, get the champagne!
+avaj.launcher.JetPlane#J1(3): Fog confirmed, approaching unsuspecting enemy.
+avaj.launcher.JetPlane#J2(8): Fog confirmed, approaching unsuspecting enemy.
+avaj.launcher.Helicopter#H4(9): This rain is jeopardazing the rescue mission!
+avaj.launcher.Helicopter#H1(4): This rain is jeopardazing the rescue mission!
+Balloon#B3(7): Sun's out, get the champagne!
+avaj.launcher.JetPlane#J1(3): Fog confirmed, approaching unsuspecting enemy.
+avaj.launcher.JetPlane#J2(8): Fog confirmed, approaching unsuspecting enemy.
+avaj.launcher.Helicopter#H4(9): This rain is jeopardazing the rescue mission!
+avaj.launcher.Helicopter#H1(4): This rain is jeopardazing the rescue mission!
+Balloon#B3(7): Sun's out, get the champagne!
+avaj.launcher.JetPlane#J1(3): Fog confirmed, approaching unsuspecting enemy.
+avaj.launcher.JetPlane#J2(8): Fog confirmed, approaching unsuspecting enemy.
+avaj.launcher.Helicopter#H4(9): This rain is jeopardazing the rescue mission!
+avaj.launcher.Helicopter#H1(4): This rain is jeopardazing the rescue mission!
+Balloon#B3(7): I actually enjoy the view with a little Fog.
+avaj.launcher.JetPlane#J1(3): Fog confirmed, approaching unsuspecting enemy.
+avaj.launcher.JetPlane#J2(8): Fog confirmed, approaching unsuspecting enemy.
+avaj.launcher.Helicopter#H4(9): This rain is jeopardazing the rescue mission!
+avaj.launcher.Helicopter#H1(4): This rain is jeopardazing the rescue mission!
+Balloon#B3(7): Is it dangerous to balloon on Snow days? 🥶
+avaj.launcher.JetPlane#J1(3): Fog confirmed, approaching unsuspecting enemy.
+avaj.launcher.JetPlane#J2(8): Fog confirmed, approaching unsuspecting enemy.
+avaj.launcher.Helicopter#H4(9): This rain is jeopardazing the rescue mission!
+avaj.launcher.Helicopter#H1(4): This rain is jeopardazing the rescue mission!
+Balloon#B3(7): Sun's out, get the champagne!
+avaj.launcher.JetPlane#J1(3): Fog confirmed, approaching unsuspecting enemy.
+avaj.launcher.JetPlane#J2(8): Fog confirmed, approaching unsuspecting enemy.
+avaj.launcher.Helicopter#H4(9): This rain is jeopardazing the rescue mission!
+avaj.launcher.Helicopter#H1(4): This rain is jeopardazing the rescue mission!
+Balloon#B3(7): Sun's out, get the champagne!
+avaj.launcher.JetPlane#J1(3): Fog confirmed, approaching unsuspecting enemy.
+avaj.launcher.JetPlane#J2(8): Fog confirmed, approaching unsuspecting enemy.
+avaj.launcher.Helicopter#H4(9): This rain is jeopardazing the rescue mission!
+avaj.launcher.Helicopter#H1(4): This rain is jeopardazing the rescue mission!
+Balloon#B3(7): Sun's out, get the champagne!
+avaj.launcher.JetPlane#J1(3): Fog confirmed, approaching unsuspecting enemy.
+avaj.launcher.JetPlane#J2(8): Fog confirmed, approaching unsuspecting enemy.
+avaj.launcher.Helicopter#H4(9): This rain is jeopardazing the rescue mission!
+avaj.launcher.Helicopter#H1(4): This rain is jeopardazing the rescue mission!
+Balloon#B3(7): Sun's out, get the champagne!
+avaj.launcher.JetPlane#J1(3): Fog confirmed, approaching unsuspecting enemy.
+avaj.launcher.JetPlane#J2(8): Fog confirmed, approaching unsuspecting enemy.
+avaj.launcher.Helicopter#H4(9): This rain is jeopardazing the rescue mission!
+avaj.launcher.Helicopter#H1(4): This rain is jeopardazing the rescue mission!
+Balloon#B3(7): Sun's out, get the champagne!
+avaj.launcher.JetPlane#J1(3): Fog confirmed, approaching unsuspecting enemy.
+avaj.launcher.JetPlane#J2(8): Fog confirmed, approaching unsuspecting enemy.
+avaj.launcher.Helicopter#H4(9): This rain is jeopardazing the rescue mission!
+avaj.launcher.Helicopter#H1(4): This rain is jeopardazing the rescue mission!
+Balloon#B3(7): I actually enjoy the view with a little Fog.

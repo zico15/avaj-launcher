@@ -1,0 +1,138 @@
+avaj.launcher.Tower says: Balloon#B1(1) registered to weather tower.
+avaj.launcher.Tower says: Balloon#B2(2) registered to weather tower.
+avaj.launcher.Tower says: JetPlane#J1(3) registered to weather tower.
+avaj.launcher.Tower says: Helicopter#H1(4) registered to weather tower.
+avaj.launcher.Tower says: Helicopter#H2(5) registered to weather tower.
+avaj.launcher.Tower says: Helicopter#H3(6) registered to weather tower.
+avaj.launcher.Tower says: Balloon#B3(7) registered to weather tower.
+avaj.launcher.Tower says: JetPlane#J2(8) registered to weather tower.
+avaj.launcher.Tower says: Helicopter#H4(9) registered to weather tower.
+Balloon#B1(1): Damn you rain! You messed up my balloon.
+Balloon#B2(2): Damn you rain! You messed up my balloon.
+JetPlane#J1(3): OMG! Winter is coming!
+Helicopter#H1(4): This is hot.
+Helicopter#H2(5): My rotor is going to freeze!
+Helicopter#H3(6): It's raining. Better watch out for lightings.
+Balloon#B3(7): I can't see anything!
+JetPlane#J2(8): It's a beautiful day to fly.
+Helicopter#H4(9): I can't see anything!
+Balloon#B1(1): I can't see anything!
+Balloon#B2(2): I can't see anything!
+JetPlane#J1(3): Better turn on the instruments.
+Helicopter#H1(4): My rotor is going to freeze!
+Helicopter#H2(5): My rotor is going to freeze!
+Helicopter#H3(6): It's raining. Better watch out for lightings.
+Balloon#B3(7): I can't see anything!
+JetPlane#J2(8): OMG! Winter is coming!
+Helicopter#H4(9): I can't see anything!
+Balloon#B1(1): I can't see anything!
+Balloon#B2(2): I can't see anything!
+JetPlane#J1(3): Better turn on the instruments.
+Helicopter#H1(4): This is hot.
+Helicopter#H2(5): It's raining. Better watch out for lightings.
+Helicopter#H3(6): This is hot.
+Balloon#B3(7): I can't see anything!
+JetPlane#J2(8): It's a beautiful day to fly.
+Helicopter#H4(9): I can't see anything!
+Balloon#B1(1): It's snowing. We're gonna crash.
+Balloon#B1(1) landing.
+avaj.launcher.Tower says: Balloon#B1(1) unregistered from weather tower.
+Balloon#B2(2): I can't see anything!
+JetPlane#J1(3): OMG! Winter is coming!
+Helicopter#H1(4): My rotor is going to freeze!
+Helicopter#H1(4) landing.
+avaj.launcher.Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H2(5): This is hot.
+Helicopter#H3(6): My rotor is going to freeze!
+Balloon#B3(7): I can't see anything!
+JetPlane#J2(8): It's a beautiful day to fly.
+Helicopter#H4(9): I can't see anything!
+Balloon#B2(2): I can't see anything!
+JetPlane#J1(3): OMG! Winter is coming!
+Helicopter#H2(5): I can't see anything!
+Helicopter#H3(6): This is hot.
+Balloon#B3(7): It's snowing. We're gonna crash.
+JetPlane#J2(8): Better turn on the instruments.
+Helicopter#H4(9): This is hot.
+Balloon#B2(2): I can't see anything!
+JetPlane#J1(3): It's a beautiful day to fly.
+Helicopter#H2(5): I can't see anything!
+Helicopter#H3(6): My rotor is going to freeze!
+Balloon#B3(7): Damn you rain! You messed up my balloon.
+JetPlane#J2(8): OMG! Winter is coming!
+Helicopter#H4(9): My rotor is going to freeze!
+Balloon#B2(2): It's snowing. We're gonna crash.
+JetPlane#J1(3): Better turn on the instruments.
+Helicopter#H2(5): My rotor is going to freeze!
+Helicopter#H3(6): This is hot.
+Balloon#B3(7): It's snowing. We're gonna crash.
+Balloon#B3(7) landing.
+avaj.launcher.Tower says: Balloon#B3(7) unregistered from weather tower.
+JetPlane#J2(8): OMG! Winter is coming!
+Helicopter#H4(9): This is hot.
+Balloon#B2(2): Let's enjoy the good weather and take some pics.
+JetPlane#J1(3): Better turn on the instruments.
+Helicopter#H2(5): This is hot.
+Helicopter#H3(6): My rotor is going to freeze!
+JetPlane#J2(8): It's a beautiful day to fly.
+Helicopter#H4(9): My rotor is going to freeze!
+Balloon#B2(2): Let's enjoy the good weather and take some pics.
+JetPlane#J1(3): OMG! Winter is coming!
+Helicopter#H2(5): My rotor is going to freeze!
+Helicopter#H2(5) landing.
+avaj.launcher.Tower says: Helicopter#H2(5) unregistered from weather tower.
+Helicopter#H3(6): This is hot.
+JetPlane#J2(8): Better turn on the instruments.
+Helicopter#H4(9): This is hot.
+Balloon#B2(2): I can't see anything!
+JetPlane#J1(3): OMG! Winter is coming!
+JetPlane#J1(3) landing.
+avaj.launcher.Tower says: JetPlane#J1(3) unregistered from weather tower.
+Helicopter#H3(6): My rotor is going to freeze!
+JetPlane#J2(8): Better turn on the instruments.
+Helicopter#H4(9): My rotor is going to freeze!
+Balloon#B2(2): It's snowing. We're gonna crash.
+Helicopter#H3(6): This is hot.
+JetPlane#J2(8): OMG! Winter is coming!
+Helicopter#H4(9): This is hot.
+Balloon#B2(2): Damn you rain! You messed up my balloon.
+Helicopter#H3(6): My rotor is going to freeze!
+JetPlane#J2(8): OMG! Winter is coming!
+Helicopter#H4(9): My rotor is going to freeze!
+Balloon#B2(2): Damn you rain! You messed up my balloon.
+Helicopter#H3(6): This is hot.
+JetPlane#J2(8): It's a beautiful day to fly.
+Helicopter#H4(9): This is hot.
+Balloon#B2(2): Damn you rain! You messed up my balloon.
+Helicopter#H3(6): My rotor is going to freeze!
+JetPlane#J2(8): Better turn on the instruments.
+Helicopter#H4(9): My rotor is going to freeze!
+Balloon#B2(2): I can't see anything!
+Helicopter#H3(6): This is hot.
+JetPlane#J2(8): Better turn on the instruments.
+Helicopter#H4(9): This is hot.
+Balloon#B2(2): I can't see anything!
+Balloon#B2(2) landing.
+avaj.launcher.Tower says: Balloon#B2(2) unregistered from weather tower.
+Helicopter#H3(6): My rotor is going to freeze!
+JetPlane#J2(8): OMG! Winter is coming!
+Helicopter#H4(9): My rotor is going to freeze!
+Helicopter#H4(9) landing.
+avaj.launcher.Tower says: Helicopter#H4(9) unregistered from weather tower.
+Helicopter#H3(6): This is hot.
+JetPlane#J2(8): OMG! Winter is coming!
+Helicopter#H3(6): My rotor is going to freeze!
+JetPlane#J2(8): It's a beautiful day to fly.
+Helicopter#H3(6): This is hot.
+JetPlane#J2(8): Better turn on the instruments.
+Helicopter#H3(6): My rotor is going to freeze!
+JetPlane#J2(8): Better turn on the instruments.
+Helicopter#H3(6): This is hot.
+JetPlane#J2(8): OMG! Winter is coming!
+Helicopter#H3(6): My rotor is going to freeze!
+Helicopter#H3(6) landing.
+avaj.launcher.Tower says: Helicopter#H3(6) unregistered from weather tower.
+JetPlane#J2(8): OMG! Winter is coming!
+JetPlane#J2(8): It's a beautiful day to fly.
+JetPlane#J2(8): Better turn on the instruments.
+JetPlane#J2(8): Better turn on the instruments.
